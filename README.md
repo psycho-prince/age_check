@@ -124,7 +124,10 @@ Click "Start Stream" in Cell 4 to begin real-time prediction
 
 ![Webcam Age Detection Demo](images/age_demo.png)
 
-📈 Results
+📈 Results <p align="center">
+  <img src="images/age_demo.png" alt="Webcam Age Detection Demo" width="400"/>
+</p>
+
 Mean Absolute Error: ~15.96 years (combined dataset)
 
 Note: Accuracy varies by age group and image quality
