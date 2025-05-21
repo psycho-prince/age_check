@@ -1,0 +1,16 @@
+# Datasets
+UTKFace/
+Adience/
+IMDB-WIKI/
+FG-NET/
+
+# Model files
+models/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Jupyter
+*.ipynb_checkpoints
