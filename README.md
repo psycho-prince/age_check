@@ -1,6 +1,6 @@
-Age Estimation with Caffe Model
+**Age Estimation with Caffe Model
 This project implements an age estimation system using a pre-trained Caffe model, tested on the UTKFace and Adience datasets. It includes a Jupyter Notebook with a real-time webcam streaming interface using ipywidgets for face detection and age prediction.
-Project Overview
+Project Overview**
 
 Objective: Estimate age from facial images using a Caffe-based deep learning model.
 Model: Uses SSD for face detection (res10_300x300_ssd_iter_140000) and a Caffe age estimation model (age_net).
@@ -8,11 +8,11 @@ Datasets:
 UTKFace: Labeled images with exact ages.
 Adience: Images with age bins.
 
-
+**
 Features:
 Real-time age prediction via webcam.
 Batch accuracy testing across UTKFace and Adience datasets.
-Mean Absolute Error (MAE) evaluation (~15.96 years on combined datasets).
+Mean Absolute Error (MAE) evaluation (~15.96 years on combined datasets).**
 
 
 
@@ -41,7 +41,7 @@ Adience/ (extracted faces/ and fold_*.txt files)
 
 Webcam for real-time streaming.
 
-Setup
+**Setup
 
 Clone the Repository:git clone https://github.com/your-username/age_check.git
 cd age_check
@@ -54,7 +54,7 @@ Download Models:
 Place model files in models/ directory.
 Example: Download models (Update with your link if hosted).
 
-
+**
 Download Datasets:
 UTKFace: Download
 Adience: Download
